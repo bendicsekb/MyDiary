@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="hu.bendicsek.mydiary.ScrollingActivity">
+    <item
+        android:id="@+id/action_map"
+        android:orderInCategory="100"
+        android:title="@string/action_map" />
+    <item
+        android:id="@+id/action_delete_all"
+        android:orderInCategory="100"
+        android:title="@string/action_delete_all" />
+</menu>

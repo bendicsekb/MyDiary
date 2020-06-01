@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyDiary</string>
+    <string name="title_activity_scrolling">My diary entries</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="enter_creation_place">Enter creation place</string>
+    <string name="is_personal">Personal</string>
+    <string name="enter_diary_body">Enter diary entry\n\n\n</string>
+    <string name="enter_diary_title">Enter title</string>
+    <string name="set_my_position">Set my position</string>
+    <string name="action_map">Map</string>
+    <string name="action_delete_all">Delete all</string>
+    <string name="hello_blank_fragment">An error occured</string>
+</resources>
